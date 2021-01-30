@@ -1,12 +1,13 @@
 # crud-application-using-flask-and-mysql
+
 A simple CRUD application using Flask and MySQL
 
 #### Built With
 
-* Python
-* Python Libraries: flask and pymysql
-* MySQL
-* AdminLTE 2
+- Python
+- Python Libraries: flask and pymysql
+- MySQL
+- AdminLTE 2
 
 #### Running on Docker
 
@@ -21,10 +22,3 @@ To destroy the containers, execute:
 ```
 docker-compose down --rmi all
 ```
-
-## Donate
-
-If you want to donate to this project, please contact us:
-
-- Email: moehammadhanif@gmail.com
-- Telegram: [@hanifmu](https://t.me/hanifmu)
